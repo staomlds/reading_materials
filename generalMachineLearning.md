@@ -5,7 +5,8 @@
 
 chapter reviews. 
 ### Chapter 2. 
-hypothesis = classifier = predictor 
+Notations: 
+* $S=(X, y)$ denotes training data.
+* hypothesis = classifier = predictor 
+* $L_{D,f}h$ measures true error of $h$. $D$ is distribution of $X$. $f$ labeling function. ERM $L_S(h)$.
 
-Notations: (x, y) 
-$L_{D,f}h$ measures the error. $D$ is distribution of $X$ 
