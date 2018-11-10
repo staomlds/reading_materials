@@ -12,7 +12,7 @@ Notations:
 
 Contents:
 * Finite hypothesis class $H$
-* The Realizability Assumption (exists $h^{*}$ that $L_S(h^{*})=0$)
+* The Realizability Assumption (exists $h^{*}, L_S(h^{*})=0$)
 ### Chapter 3 
 
 
