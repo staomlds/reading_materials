@@ -14,5 +14,10 @@ Contents:
 * Finite hypothesis class $H$
 * The Realizability Assumption (exists $h*$ so that $L_S(h^{*})=0$)
 ### Chapter 3 
+Contents:
+* Probably approximately correct (PAC) for a hypothesis
+* Agnostic PAC with $L_{D}(h')$ for all $h'$ in $H$.
+* Sample complexity for finite class is $\frac{\log{|H|/\delta}}{\epsilon}$
+* The PAC learnability of a hypothesis class depends on VC dimension (not just finiteness).
 
 
