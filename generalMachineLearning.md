@@ -6,4 +6,6 @@
 chapter reviews. 
 ### Chapter 2. 
 hypothesis = classifier = predictor 
-$L_{D,f}h$
+
+Notations: (x, y) 
+$L_{D,f}h$ measures the error. $D$ is distribution of $X$ 
