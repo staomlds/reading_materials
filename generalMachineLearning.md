@@ -10,3 +10,9 @@ Notations:
 * hypothesis = classifier = predictor 
 * $L_{D,f}h$ measures true error of $h$. $D$ is distribution of $X$. $f$ labeling function. ERM $L_S(h)$.
 
+Contents:
+* Finite hypothesis class $H$
+* The Realizability Assumption (exists $h^*$ that $L_S(h^*)=0$)
+### Chapter 3 
+
+
