@@ -9,3 +9,5 @@ LinuxAcademy: AWS Certified Solution Architect - Associate-level
 - 2018-02-20: IAM role
 
 
+LinuxAcademy: Certified Jenkins
+- 2018-02-18: Intro
