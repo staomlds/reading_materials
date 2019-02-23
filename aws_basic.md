@@ -6,3 +6,6 @@ LinuxAcademy: AWS Certified Cloud Practitioner
 
 LinuxAcademy: AWS Certified Solution Architect - Associate-level
 - 2018-02-18: IAM role
+- 2018-02-20: IAM role
+
+
